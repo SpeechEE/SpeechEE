@@ -26,6 +26,11 @@ pip install -r requirements.txt
 ## Datasets 
 Please download the audio data from google drive links.
 
+https://drive.google.com/file/d/1-0ql2_6xaLXUOuPyItZyhlp_VA2bGkS1/view?usp=sharing
+
+https://drive.google.com/file/d/1-0LMB-_nDGwyIb8jhVhMUia-b99jaJS2/view?usp=sharing
+
+Data structure:
 ```
 datasets
 |
