@@ -98,3 +98,804 @@
 {"id": "dev-97", "event": [{"trigger": "arrived", "type": "Transport", "arguments": [{"name": "plane", "role": "Vehicle"}, {"name": "base", "role": "Destination"}]}]}
 {"id": "dev-98", "event": []}
 {"id": "dev-99", "event": []}
+{"id": "dev-100", "event": []}
+{"id": "dev-101", "event": []}
+{"id": "dev-102", "event": []}
+{"id": "dev-103", "event": []}
+{"id": "dev-104", "event": []}
+{"id": "dev-105", "event": []}
+{"id": "dev-106", "event": []}
+{"id": "dev-107", "event": []}
+{"id": "dev-108", "event": []}
+{"id": "dev-109", "event": []}
+{"id": "dev-110", "event": []}
+{"id": "dev-111", "event": [{"trigger": "strike", "type": "Attack", "arguments": [{"name": "Iraq", "role": "Place"}, {"name": "bombs", "role": "Instrument"}, {"name": "missiles", "role": "Instrument"}]}]}
+{"id": "dev-112", "event": []}
+{"id": "dev-113", "event": []}
+{"id": "dev-114", "event": []}
+{"id": "dev-115", "event": []}
+{"id": "dev-116", "event": [{"trigger": "interview", "type": "Meet", "arguments": [{"name": "I", "role": "Entity"}, {"name": "officer", "role": "Entity"}]}]}
+{"id": "dev-117", "event": []}
+{"id": "dev-118", "event": []}
+{"id": "dev-119", "event": []}
+{"id": "dev-120", "event": []}
+{"id": "dev-121", "event": []}
+{"id": "dev-122", "event": []}
+{"id": "dev-123", "event": []}
+{"id": "dev-124", "event": []}
+{"id": "dev-125", "event": [{"trigger": "captured", "type": "Transfer-Ownership", "arguments": [{"name": "forces", "role": "Beneficiary"}, {"name": "weapons", "role": "Artifact"}]}]}
+{"id": "dev-126", "event": []}
+{"id": "dev-127", "event": []}
+{"id": "dev-128", "event": []}
+{"id": "dev-129", "event": []}
+{"id": "dev-130", "event": [{"trigger": "threat", "type": "Attack", "arguments": [{"name": "buildings", "role": "Place"}, {"name": "Iraq", "role": "Place"}, {"name": "forces", "role": "Target"}]}]}
+{"id": "dev-131", "event": []}
+{"id": "dev-132", "event": []}
+{"id": "dev-133", "event": []}
+{"id": "dev-134", "event": []}
+{"id": "dev-135", "event": []}
+{"id": "dev-136", "event": []}
+{"id": "dev-137", "event": []}
+{"id": "dev-138", "event": []}
+{"id": "dev-139", "event": []}
+{"id": "dev-140", "event": []}
+{"id": "dev-141", "event": []}
+{"id": "dev-142", "event": []}
+{"id": "dev-143", "event": []}
+{"id": "dev-144", "event": []}
+{"id": "dev-145", "event": []}
+{"id": "dev-146", "event": []}
+{"id": "dev-147", "event": []}
+{"id": "dev-148", "event": []}
+{"id": "dev-149", "event": []}
+{"id": "dev-150", "event": []}
+{"id": "dev-151", "event": []}
+{"id": "dev-152", "event": []}
+{"id": "dev-153", "event": []}
+{"id": "dev-154", "event": []}
+{"id": "dev-155", "event": []}
+{"id": "dev-156", "event": []}
+{"id": "dev-157", "event": []}
+{"id": "dev-158", "event": [{"trigger": "fight", "type": "Attack", "arguments": [{"name": "heart", "role": "Place"}]}]}
+{"id": "dev-159", "event": [{"trigger": "push", "type": "Transport", "arguments": [{"name": "Baghdad", "role": "Destination"}]}]}
+{"id": "dev-160", "event": [{"trigger": "press", "type": "Transport", "arguments": [{"name": "forces", "role": "Artifact"}, {"name": "Karbala", "role": "Origin"}, {"name": "Kut", "role": "Origin"}]}, {"trigger": "defeating", "type": "Attack", "arguments": [{"name": "forces", "role": "Attacker"}, {"name": "Karbala", "role": "Place"}, {"name": "Kut", "role": "Place"}, {"name": "units", "role": "Target"}]}]}
+{"id": "dev-161", "event": [{"trigger": "advance", "type": "Transport", "arguments": []}]}
+{"id": "dev-162", "event": []}
+{"id": "dev-163", "event": []}
+{"id": "dev-164", "event": [{"trigger": "arrived", "type": "Transport", "arguments": [{"name": "forces", "role": "Artifact"}, {"name": "Najaf", "role": "Destination"}]}]}
+{"id": "dev-165", "event": [{"trigger": "left", "type": "Transport", "arguments": [{"name": "they", "role": "Artifact"}, {"name": "desert", "role": "Destination"}, {"name": "Kuwait", "role": "Origin"}]}, {"trigger": "crossed", "type": "Transport", "arguments": [{"name": "they", "role": "Artifact"}, {"name": "desert", "role": "Destination"}]}]}
+{"id": "dev-166", "event": [{"trigger": "march", "type": "Transport", "arguments": [{"name": "3rd Infantry Division", "role": "Artifact"}, {"name": "capital", "role": "Destination"}]}]}
+{"id": "dev-167", "event": []}
+{"id": "dev-168", "event": []}
+{"id": "dev-169", "event": [{"trigger": "punched", "type": "Transport", "arguments": [{"name": "7th Cavalry", "role": "Artifact"}, {"name": "Baghdad", "role": "Destination"}]}]}
+{"id": "dev-170", "event": []}
+{"id": "dev-171", "event": [{"trigger": "fight", "type": "Attack", "arguments": [{"name": "1st Brigade", "role": "Attacker"}, {"name": "Karbala", "role": "Place"}]}]}
+{"id": "dev-172", "event": []}
+{"id": "dev-173", "event": [{"trigger": "pushed onward", "type": "Transport", "arguments": [{"name": "Baghdad", "role": "Destination"}, {"name": "7th Cavalry", "role": "Artifact"}]}]}
+{"id": "dev-174", "event": []}
+{"id": "dev-175", "event": []}
+{"id": "dev-176", "event": [{"trigger": "war", "type": "Attack", "arguments": []}]}
+{"id": "dev-177", "event": [{"trigger": "war", "type": "Attack", "arguments": []}]}
+{"id": "dev-178", "event": [{"trigger": "skirmishes", "type": "Attack", "arguments": [{"name": "7th Cavalry", "role": "Attacker"}]}, {"trigger": "pushed forward", "type": "Transport", "arguments": [{"name": "it", "role": "Artifact"}, {"name": "Baghdad", "role": "Destination"}]}]}
+{"id": "dev-179", "event": [{"trigger": "firefight", "type": "Attack", "arguments": [{"name": "7th Cavalry", "role": "Attacker"}, {"name": "guns", "role": "Target"}]}]}
+{"id": "dev-180", "event": [{"trigger": "fired", "type": "Attack", "arguments": [{"name": "unit", "role": "Attacker"}, {"name": "7th Cavalry", "role": "Target"}, {"name": "mortars", "role": "Instrument"}]}]}
+{"id": "dev-181", "event": [{"trigger": "opened", "type": "Attack", "arguments": [{"name": "troop", "role": "Attacker"}, {"name": "unit", "role": "Target"}, {"name": "guns", "role": "Instrument"}]}, {"trigger": "opened", "type": "Attack", "arguments": [{"name": "troop", "role": "Attacker"}, {"name": "unit", "role": "Target"}, {"name": "mortars", "role": "Instrument"}]}, {"trigger": "killed", "type": "Die", "arguments": [{"name": "guns", "role": "Instrument"}, {"name": "mortars", "role": "Instrument"}, {"name": "Iraqis", "role": "Victim"}, {"name": "troop", "role": "Agent"}]}]}
+{"id": "dev-182", "event": [{"trigger": "push", "type": "Transport", "arguments": [{"name": "it", "role": "Artifact"}, {"name": "suburbs", "role": "Destination"}]}]}
+{"id": "dev-183", "event": []}
+{"id": "dev-184", "event": []}
+{"id": "dev-185", "event": []}
+{"id": "dev-186", "event": []}
+{"id": "dev-187", "event": []}
+{"id": "dev-188", "event": []}
+{"id": "dev-189", "event": []}
+{"id": "dev-190", "event": []}
+{"id": "dev-191", "event": [{"trigger": "push", "type": "Transport", "arguments": [{"name": "Baghdad", "role": "Destination"}, {"name": "they", "role": "Artifact"}]}]}
+{"id": "dev-192", "event": []}
+{"id": "dev-193", "event": []}
+{"id": "dev-194", "event": []}
+{"id": "dev-195", "event": [{"trigger": "battle", "type": "Attack", "arguments": []}]}
+{"id": "dev-196", "event": []}
+{"id": "dev-197", "event": []}
+{"id": "dev-198", "event": [{"trigger": "punched through", "type": "Attack", "arguments": [{"name": "3rd Infantry Division", "role": "Attacker"}, {"name": "11th Aviation Regiment", "role": "Attacker"}, {"name": "Karbala", "role": "Place"}, {"name": "Republican Guard", "role": "Target"}, {"name": "tanks", "role": "Instrument"}, {"name": "vehicles", "role": "Instrument"}, {"name": "helicopters", "role": "Instrument"}]}]}
+{"id": "dev-199", "event": [{"trigger": "advance", "type": "Transport", "arguments": [{"name": "elements", "role": "Artifact"}, {"name": "city", "role": "Origin"}, {"name": "Baghdad", "role": "Destination"}]}]}
+{"id": "dev-200", "event": []}
+{"id": "dev-201", "event": []}
+{"id": "dev-202", "event": []}
+{"id": "dev-203", "event": []}
+{"id": "dev-204", "event": []}
+{"id": "dev-205", "event": [{"trigger": "attacks", "type": "Attack", "arguments": [{"name": "Iraqis", "role": "Attacker"}, {"name": "forces", "role": "Target"}]}]}
+{"id": "dev-206", "event": [{"trigger": "fleeing", "type": "Transport", "arguments": [{"name": "convoys", "role": "Vehicle"}, {"name": "officials", "role": "Artifact"}, {"name": "Baghdad", "role": "Origin"}]}, {"trigger": "air strikes", "type": "Attack", "arguments": [{"name": "Baghdad", "role": "Place"}, {"name": "officials", "role": "Target"}, {"name": "coalition", "role": "Attacker"}]}]}
+{"id": "dev-207", "event": [{"trigger": "entering", "type": "Transport", "arguments": [{"name": "troops", "role": "Artifact"}, {"name": "Baghdad", "role": "Destination"}]}, {"trigger": "fighting", "type": "Attack", "arguments": [{"name": "troops", "role": "Attacker"}, {"name": "Baghdad", "role": "Place"}, {"name": "casualties", "role": "Target"}]}]}
+{"id": "dev-208", "event": [{"trigger": "reached", "type": "Transport", "arguments": [{"name": "unit", "role": "Artifact"}, {"name": "suburbs", "role": "Destination"}]}]}
+{"id": "dev-209", "event": []}
+{"id": "dev-210", "event": [{"trigger": "combat", "type": "Attack", "arguments": [{"name": "city", "role": "Place"}]}]}
+{"id": "dev-211", "event": []}
+{"id": "dev-212", "event": [{"trigger": "hit", "type": "Attack", "arguments": [{"name": "Baghdad", "role": "Place"}, {"name": "bomb", "role": "Instrument"}]}]}
+{"id": "dev-213", "event": []}
+{"id": "dev-214", "event": []}
+{"id": "dev-215", "event": []}
+{"id": "dev-216", "event": []}
+{"id": "dev-217", "event": []}
+{"id": "dev-218", "event": []}
+{"id": "dev-219", "event": []}
+{"id": "dev-220", "event": []}
+{"id": "dev-221", "event": []}
+{"id": "dev-222", "event": [{"trigger": "war", "type": "Attack", "arguments": []}]}
+{"id": "dev-223", "event": [{"trigger": "fighting", "type": "Attack", "arguments": []}]}
+{"id": "dev-224", "event": []}
+{"id": "dev-225", "event": [{"trigger": "war", "type": "Attack", "arguments": []}]}
+{"id": "dev-226", "event": []}
+{"id": "dev-227", "event": []}
+{"id": "dev-228", "event": []}
+{"id": "dev-229", "event": [{"trigger": "war", "type": "Attack", "arguments": []}]}
+{"id": "dev-230", "event": [{"trigger": "fighting", "type": "Attack", "arguments": []}]}
+{"id": "dev-231", "event": []}
+{"id": "dev-232", "event": []}
+{"id": "dev-233", "event": []}
+{"id": "dev-234", "event": []}
+{"id": "dev-235", "event": [{"trigger": "Desert Storm", "type": "Attack", "arguments": []}]}
+{"id": "dev-236", "event": [{"trigger": "war", "type": "Attack", "arguments": []}]}
+{"id": "dev-237", "event": []}
+{"id": "dev-238", "event": []}
+{"id": "dev-239", "event": []}
+{"id": "dev-240", "event": []}
+{"id": "dev-241", "event": [{"trigger": "fighting", "type": "Attack", "arguments": []}]}
+{"id": "dev-242", "event": [{"trigger": "walked out", "type": "Transport", "arguments": [{"name": "George Tenet", "role": "Artifact"}, {"name": "White House", "role": "Origin"}]}]}
+{"id": "dev-243", "event": []}
+{"id": "dev-244", "event": []}
+{"id": "dev-245", "event": [{"trigger": "retired", "type": "End-Position", "arguments": [{"name": "general", "role": "Person"}, {"name": "American", "role": "Entity"}]}]}
+{"id": "dev-246", "event": []}
+{"id": "dev-247", "event": []}
+{"id": "dev-248", "event": []}
+{"id": "dev-249", "event": [{"trigger": "retired", "type": "End-Position", "arguments": [{"name": "general", "role": "Person"}]}, {"trigger": "go", "type": "Transport", "arguments": [{"name": "Jay Garner", "role": "Artifact"}, {"name": "troops", "role": "Artifact"}, {"name": "Iraq", "role": "Destination"}]}]}
+{"id": "dev-250", "event": []}
+{"id": "dev-251", "event": []}
+{"id": "dev-252", "event": []}
+{"id": "dev-253", "event": []}
+{"id": "dev-254", "event": [{"trigger": "meetings", "type": "Meet", "arguments": []}]}
+{"id": "dev-255", "event": []}
+{"id": "dev-256", "event": []}
+{"id": "dev-257", "event": [{"trigger": "meetings", "type": "Meet", "arguments": [{"name": "person", "role": "Entity"}]}]}
+{"id": "dev-258", "event": []}
+{"id": "dev-259", "event": []}
+{"id": "dev-260", "event": [{"trigger": "meetings", "type": "Meet", "arguments": [{"name": "He", "role": "Entity"}]}]}
+{"id": "dev-261", "event": [{"trigger": "returning", "type": "Transport", "arguments": [{"name": "he", "role": "Artifact"}, {"name": "Iraq", "role": "Destination"}]}]}
+{"id": "dev-262", "event": []}
+{"id": "dev-263", "event": [{"trigger": "war", "type": "Attack", "arguments": []}]}
+{"id": "dev-264", "event": []}
+{"id": "dev-265", "event": []}
+{"id": "dev-266", "event": []}
+{"id": "dev-267", "event": [{"trigger": "warfare", "type": "Attack", "arguments": [{"name": "Baghdad", "role": "Place"}]}]}
+{"id": "dev-268", "event": [{"trigger": "poured", "type": "Transport", "arguments": [{"name": "Iraqis", "role": "Artifact"}, {"name": "streets", "role": "Destination"}]}, {"trigger": "fire", "type": "Attack", "arguments": [{"name": "troops", "role": "Target"}]}]}
+{"id": "dev-269", "event": []}
+{"id": "dev-270", "event": []}
+{"id": "dev-271", "event": []}
+{"id": "dev-272", "event": [{"trigger": "critical", "type": "Injure", "arguments": [{"name": "boys", "role": "Victim"}]}]}
+{"id": "dev-273", "event": [{"trigger": "died", "type": "Die", "arguments": [{"name": "hospital", "role": "Place"}, {"name": "father", "role": "Victim"}]}]}
+{"id": "dev-274", "event": [{"trigger": "killed", "type": "Die", "arguments": [{"name": "mother", "role": "Victim"}, {"name": "brothers", "role": "Victim"}]}]}
+{"id": "dev-275", "event": [{"trigger": "land", "type": "Transport", "arguments": [{"name": "plane", "role": "Vehicle"}, {"name": "pilot", "role": "Agent"}, {"name": "massachusetts", "role": "Destination"}]}]}
+{"id": "dev-276", "event": []}
+{"id": "dev-277", "event": []}
+{"id": "dev-278", "event": []}
+{"id": "dev-279", "event": []}
+{"id": "dev-280", "event": []}
+{"id": "dev-281", "event": []}
+{"id": "dev-282", "event": [{"trigger": "heading", "type": "Transport", "arguments": [{"name": "plane", "role": "Vehicle"}, {"name": "family", "role": "Artifact"}, {"name": "new hampshire", "role": "Destination"}, {"name": "lakeland", "role": "Origin"}]}]}
+{"id": "dev-283", "event": []}
+{"id": "dev-284", "event": []}
+{"id": "dev-285", "event": []}
+{"id": "dev-286", "event": []}
+{"id": "dev-287", "event": []}
+{"id": "dev-288", "event": []}
+{"id": "dev-289", "event": []}
+{"id": "dev-290", "event": []}
+{"id": "dev-291", "event": []}
+{"id": "dev-292", "event": [{"trigger": "getting", "type": "Transport", "arguments": [{"name": "flyers", "role": "Artifact"}, {"name": "airlines", "role": "Agent"}]}]}
+{"id": "dev-293", "event": []}
+{"id": "dev-294", "event": []}
+{"id": "dev-295", "event": [{"trigger": "bankruptcy", "type": "Declare-Bankruptcy", "arguments": [{"name": "united", "role": "Org"}]}]}
+{"id": "dev-296", "event": []}
+{"id": "dev-297", "event": []}
+{"id": "dev-298", "event": []}
+{"id": "dev-299", "event": []}
+{"id": "dev-300", "event": []}
+{"id": "dev-301", "event": []}
+{"id": "dev-302", "event": [{"trigger": "terrorism", "type": "Attack", "arguments": []}, {"trigger": "war", "type": "Attack", "arguments": []}]}
+{"id": "dev-303", "event": []}
+{"id": "dev-304", "event": []}
+{"id": "dev-305", "event": []}
+{"id": "dev-306", "event": [{"trigger": "shot", "type": "Die", "arguments": [{"name": "principal", "role": "Victim"}, {"name": "student", "role": "Agent"}, {"name": "pennsylvania", "role": "Place"}]}, {"trigger": "killing", "type": "Die", "arguments": [{"name": "himself", "role": "Victim"}, {"name": "student", "role": "Agent"}, {"name": "pennsylvania", "role": "Place"}]}]}
+{"id": "dev-307", "event": [{"trigger": "it", "type": "Die", "arguments": [{"name": "cafeteria", "role": "Place"}]}]}
+{"id": "dev-308", "event": [{"trigger": "it", "type": "Die", "arguments": []}]}
+{"id": "dev-309", "event": [{"trigger": "moved", "type": "Transport", "arguments": [{"name": "students", "role": "Artifact"}, {"name": "school", "role": "Destination"}]}]}
+{"id": "dev-310", "event": []}
+{"id": "dev-311", "event": []}
+{"id": "dev-312", "event": []}
+{"id": "dev-313", "event": [{"trigger": "lawsuits", "type": "Sue", "arguments": []}]}
+{"id": "dev-314", "event": [{"trigger": "suit", "type": "Sue", "arguments": [{"name": "universal music", "role": "Defendant"}, {"name": "michael jackson", "role": "Plaintiff"}]}]}
+{"id": "dev-315", "event": [{"trigger": "giving", "type": "Transfer-Money", "arguments": [{"name": "label", "role": "Giver"}, {"name": "one", "role": "Recipient"}]}]}
+{"id": "dev-316", "event": []}
+{"id": "dev-317", "event": [{"trigger": "sued", "type": "Sue", "arguments": [{"name": "he", "role": "Defendant"}, {"name": "house", "role": "Plaintiff"}, {"name": "promoter", "role": "Plaintiff"}]}]}
+{"id": "dev-318", "event": []}
+{"id": "dev-319", "event": []}
+{"id": "dev-320", "event": []}
+{"id": "dev-321", "event": []}
+{"id": "dev-322", "event": []}
+{"id": "dev-323", "event": []}
+{"id": "dev-324", "event": [{"trigger": "appeal", "type": "Appeal", "arguments": [{"name": "washington", "role": "Place"}, {"name": "u . s . supreme court", "role": "Adjudicator"}, {"name": "districts", "role": "Plaintiff"}]}]}
+{"id": "dev-325", "event": []}
+{"id": "dev-326", "event": [{"trigger": "ruling", "type": "Appeal", "arguments": [{"name": "court", "role": "Adjudicator"}]}]}
+{"id": "dev-327", "event": []}
+{"id": "dev-328", "event": []}
+{"id": "dev-329", "event": []}
+{"id": "dev-330", "event": []}
+{"id": "dev-331", "event": []}
+{"id": "dev-332", "event": []}
+{"id": "dev-333", "event": []}
+{"id": "dev-334", "event": []}
+{"id": "dev-335", "event": []}
+{"id": "dev-336", "event": []}
+{"id": "dev-337", "event": []}
+{"id": "dev-338", "event": [{"trigger": "join", "type": "Transport", "arguments": [{"name": "troops", "role": "Artifact"}, {"name": "iraq", "role": "Destination"}]}, {"trigger": "war", "type": "Attack", "arguments": [{"name": "forces", "role": "Attacker"}, {"name": "iraq", "role": "Place"}, {"name": "forces", "role": "Target"}]}]}
+{"id": "dev-339", "event": [{"trigger": "departures", "type": "Transport", "arguments": [{"name": "texas", "role": "Origin"}]}]}
+{"id": "dev-340", "event": []}
+{"id": "dev-341", "event": [{"trigger": "head out", "type": "Transport", "arguments": [{"name": "soldiers", "role": "Artifact"}, {"name": "town", "role": "Origin"}]}]}
+{"id": "dev-342", "event": [{"trigger": "leave", "type": "Transport", "arguments": [{"name": "soldiers", "role": "Artifact"}]}, {"trigger": "left", "type": "Transport", "arguments": [{"name": "250", "role": "Artifact"}, {"name": "here", "role": "Origin"}]}, {"trigger": "leaving", "type": "Transport", "arguments": [{"name": "12 , 000", "role": "Artifact"}, {"name": "here", "role": "Origin"}]}]}
+{"id": "dev-343", "event": []}
+{"id": "dev-344", "event": []}
+{"id": "dev-345", "event": []}
+{"id": "dev-346", "event": [{"trigger": "left", "type": "Transport", "arguments": [{"name": "that", "role": "Artifact"}, {"name": "here", "role": "Origin"}]}]}
+{"id": "dev-347", "event": []}
+{"id": "dev-348", "event": []}
+{"id": "dev-349", "event": []}
+{"id": "dev-350", "event": []}
+{"id": "dev-351", "event": []}
+{"id": "dev-352", "event": []}
+{"id": "dev-353", "event": [{"trigger": "fight", "type": "Attack", "arguments": [{"name": "they", "role": "Attacker"}]}]}
+{"id": "dev-354", "event": []}
+{"id": "dev-355", "event": []}
+{"id": "dev-356", "event": [{"trigger": "left", "type": "Transport", "arguments": [{"name": "250", "role": "Artifact"}, {"name": "there", "role": "Destination"}]}]}
+{"id": "dev-357", "event": []}
+{"id": "dev-358", "event": [{"trigger": "return", "type": "Transport", "arguments": [{"name": "they", "role": "Artifact"}]}]}
+{"id": "dev-359", "event": []}
+{"id": "dev-360", "event": []}
+{"id": "dev-361", "event": []}
+{"id": "dev-362", "event": []}
+{"id": "dev-363", "event": []}
+{"id": "dev-364", "event": []}
+{"id": "dev-365", "event": []}
+{"id": "dev-366", "event": [{"trigger": "meeting", "type": "Meet", "arguments": [{"name": "board", "role": "Entity"}]}]}
+{"id": "dev-367", "event": []}
+{"id": "dev-368", "event": [{"trigger": "former", "type": "End-Position", "arguments": [{"name": "jack welch", "role": "Person"}, {"name": "general electric", "role": "Entity"}]}]}
+{"id": "dev-369", "event": []}
+{"id": "dev-370", "event": []}
+{"id": "dev-371", "event": []}
+{"id": "dev-372", "event": []}
+{"id": "dev-373", "event": []}
+{"id": "dev-374", "event": []}
+{"id": "dev-375", "event": []}
+{"id": "dev-376", "event": []}
+{"id": "dev-377", "event": []}
+{"id": "dev-378", "event": [{"trigger": "going down", "type": "End-Org", "arguments": [{"name": "companies", "role": "Org"}]}]}
+{"id": "dev-379", "event": []}
+{"id": "dev-380", "event": []}
+{"id": "dev-381", "event": []}
+{"id": "dev-382", "event": []}
+{"id": "dev-383", "event": []}
+{"id": "dev-384", "event": [{"trigger": "deaths", "type": "Die", "arguments": [{"name": "countries", "role": "Place"}]}]}
+{"id": "dev-385", "event": []}
+{"id": "dev-386", "event": []}
+{"id": "dev-387", "event": []}
+{"id": "dev-388", "event": []}
+{"id": "dev-389", "event": [{"trigger": "terror", "type": "Attack", "arguments": []}]}
+{"id": "dev-390", "event": []}
+{"id": "dev-391", "event": [{"trigger": "attack", "type": "Attack", "arguments": [{"name": "terrorist", "role": "Attacker"}]}]}
+{"id": "dev-392", "event": [{"trigger": "attacks", "type": "Attack", "arguments": [{"name": "people", "role": "Target"}, {"name": "anthrax", "role": "Instrument"}]}, {"trigger": "killed", "type": "Die", "arguments": [{"name": "anthrax", "role": "Instrument"}, {"name": "people", "role": "Victim"}]}]}
+{"id": "dev-393", "event": [{"trigger": "arrested", "type": "Arrest-Jail", "arguments": [{"name": "fbi", "role": "Agent"}, {"name": "one", "role": "Person"}]}, {"trigger": "attacks", "type": "Attack", "arguments": [{"name": "maryland", "role": "Place"}]}]}
+{"id": "dev-394", "event": []}
+{"id": "dev-395", "event": []}
+{"id": "dev-396", "event": []}
+{"id": "dev-397", "event": []}
+{"id": "dev-398", "event": []}
+{"id": "dev-399", "event": []}
+{"id": "dev-400", "event": []}
+{"id": "dev-401", "event": []}
+{"id": "dev-402", "event": []}
+{"id": "dev-403", "event": [{"trigger": "murder", "type": "Die", "arguments": []}]}
+{"id": "dev-404", "event": [{"trigger": "murder", "type": "Die", "arguments": []}]}
+{"id": "dev-405", "event": []}
+{"id": "dev-406", "event": [{"trigger": "attacks", "type": "Attack", "arguments": [{"name": "anthrax", "role": "Instrument"}]}]}
+{"id": "dev-407", "event": [{"trigger": "deadly", "type": "Die", "arguments": [{"name": "anthrax", "role": "Instrument"}]}]}
+{"id": "dev-408", "event": []}
+{"id": "dev-409", "event": []}
+{"id": "dev-410", "event": [{"trigger": "attacks", "type": "Attack", "arguments": [{"name": "he", "role": "Attacker"}, {"name": "anthrax", "role": "Instrument"}]}, {"trigger": "attacks", "type": "Attack", "arguments": [{"name": "anthrax", "role": "Instrument"}]}]}
+{"id": "dev-411", "event": []}
+{"id": "dev-412", "event": [{"trigger": "arrest", "type": "Arrest-Jail", "arguments": []}, {"trigger": "attacks", "type": "Attack", "arguments": [{"name": "people", "role": "Target"}, {"name": "others", "role": "Target"}]}, {"trigger": "killed", "type": "Die", "arguments": [{"name": "people", "role": "Victim"}]}, {"trigger": "sickened", "type": "Injure", "arguments": [{"name": "others", "role": "Victim"}]}]}
+{"id": "dev-413", "event": []}
+{"id": "dev-414", "event": []}
+{"id": "dev-415", "event": []}
+{"id": "dev-416", "event": []}
+{"id": "dev-417", "event": []}
+{"id": "dev-418", "event": []}
+{"id": "dev-419", "event": []}
+{"id": "dev-420", "event": []}
+{"id": "dev-421", "event": []}
+{"id": "dev-422", "event": [{"trigger": "convicted", "type": "Convict", "arguments": [{"name": "andrew luster", "role": "Defendant"}]}]}
+{"id": "dev-423", "event": [{"trigger": "returned", "type": "Transport", "arguments": [{"name": "los angeles", "role": "Destination"}, {"name": "mexico", "role": "Origin"}, {"name": "luster", "role": "Artifact"}]}, {"trigger": "capture", "type": "Arrest-Jail", "arguments": [{"name": "luster", "role": "Person"}, {"name": "hunters", "role": "Agent"}]}]}
+{"id": "dev-424", "event": [{"trigger": "trial", "type": "Trial-Hearing", "arguments": [{"name": "luster", "role": "Defendant"}]}, {"trigger": "raping and drugging", "type": "Attack", "arguments": [{"name": "women", "role": "Victim"}, {"name": "luster", "role": "Agent"}]}]}
+{"id": "dev-425", "event": [{"trigger": "sentenced", "type": "Sentence", "arguments": [{"name": "he", "role": "Defendant"}]}]}
+{"id": "dev-426", "event": []}
+{"id": "dev-427", "event": [{"trigger": "killed", "type": "Die", "arguments": [{"name": "people", "role": "Victim"}, {"name": "bomber", "role": "Agent"}, {"name": "town", "role": "Place"}]}, {"trigger": "wounded", "type": "Injure", "arguments": [{"name": "30", "role": "Victim"}, {"name": "bomber", "role": "Agent"}, {"name": "town", "role": "Place"}]}, {"trigger": "suicide", "type": "Die", "arguments": [{"name": "himself", "role": "Victim"}, {"name": "bomber", "role": "Agent"}, {"name": "town", "role": "Place"}]}, {"trigger": "blew", "type": "Attack", "arguments": [{"name": "bomber", "role": "Attacker"}, {"name": "town", "role": "Place"}]}, {"trigger": "bombing", "type": "Attack", "arguments": [{"name": "Israel", "role": "Place"}]}]}
+{"id": "dev-428", "event": [{"trigger": "advanced", "type": "Transport", "arguments": [{"name": "tanks", "role": "Vehicle"}, {"name": "Gaza Strip", "role": "Destination"}]}, {"trigger": "fired", "type": "Attack", "arguments": [{"name": "area", "role": "Place"}, {"name": "which", "role": "Instrument"}, {"name": "rockets", "role": "Instrument"}]}]}
+{"id": "dev-429", "event": [{"trigger": "killed", "type": "Die", "arguments": [{"name": "rocket", "role": "Instrument"}, {"name": "Mohammed al - Biyari", "role": "Victim"}, {"name": "home", "role": "Place"}]}, {"trigger": "fire", "type": "Attack", "arguments": [{"name": "home", "role": "Place"}, {"name": "rocket", "role": "Instrument"}]}, {"trigger": "wounded", "type": "Injure", "arguments": [{"name": "rocket", "role": "Instrument"}, {"name": "another", "role": "Victim"}]}]}
+{"id": "dev-430", "event": [{"trigger": "landed", "type": "Attack", "arguments": [{"name": "farmlands", "role": "Place"}, {"name": "rocket", "role": "Instrument"}]}, {"trigger": "hit", "type": "Attack", "arguments": [{"name": "camp", "role": "Place"}, {"name": "house", "role": "Target"}, {"name": "other", "role": "Instrument"}]}]}
+{"id": "dev-431", "event": [{"trigger": "killed", "type": "Die", "arguments": [{"name": "children", "role": "Victim"}, {"name": "those", "role": "Victim"}, {"name": "Haifa", "role": "Place"}]}, {"trigger": "bombing", "type": "Attack", "arguments": [{"name": "Haifa", "role": "Place"}, {"name": "children", "role": "Target"}, {"name": "those", "role": "Target"}, {"name": "bus", "role": "Target"}, {"name": "victims", "role": "Target"}, {"name": "youngsters", "role": "Target"}]}]}
+{"id": "dev-432", "event": []}
+{"id": "dev-433", "event": [{"trigger": "travelling", "type": "Transport", "arguments": [{"name": "bus", "role": "Vehicle"}, {"name": "Haifa university", "role": "Destination"}, {"name": "area", "role": "Origin"}]}]}
+{"id": "dev-434", "event": []}
+{"id": "dev-435", "event": [{"trigger": "raid", "type": "Attack", "arguments": [{"name": "Israel", "role": "Attacker"}, {"name": "Gaza", "role": "Place"}, {"name": "tanks", "role": "Instrument"}, {"name": "vehicles", "role": "Instrument"}]}, {"trigger": "convened", "type": "Meet", "arguments": [{"name": "Ariel Sharon", "role": "Entity"}, {"name": "cabinet", "role": "Entity"}]}, {"trigger": "attack", "type": "Attack", "arguments": [{"name": "bomb", "role": "Instrument"}]}]}
+{"id": "dev-436", "event": [{"trigger": "retaliation", "type": "Attack", "arguments": []}, {"trigger": "war", "type": "Attack", "arguments": [{"name": "US", "role": "Attacker"}, {"name": "Iraq", "role": "Place"}]}]}
+{"id": "dev-437", "event": [{"trigger": "suicide", "type": "Die", "arguments": [{"name": "bomber", "role": "Victim"}, {"name": "bomber", "role": "Agent"}, {"name": "Haifa", "role": "Place"}]}]}
+{"id": "dev-438", "event": [{"trigger": "suicide", "type": "Die", "arguments": [{"name": "his", "role": "Agent"}]}, {"trigger": "attack", "type": "Attack", "arguments": [{"name": "his", "role": "Attacker"}]}, {"trigger": "destruction", "type": "Attack", "arguments": [{"name": "New York", "role": "Place"}, {"name": "World Trade Centre", "role": "Target"}]}]}
+{"id": "dev-439", "event": []}
+{"id": "dev-440", "event": [{"trigger": "moved", "type": "Transport", "arguments": [{"name": "forces", "role": "Artifact"}, {"name": "district", "role": "Destination"}]}, {"trigger": "arrested", "type": "Arrest-Jail", "arguments": [{"name": "brother", "role": "Person"}, {"name": "father", "role": "Person"}, {"name": "district", "role": "Place"}, {"name": "forces", "role": "Agent"}]}, {"trigger": "bombing", "type": "Attack", "arguments": []}]}
+{"id": "dev-441", "event": [{"trigger": "blast", "type": "Attack", "arguments": []}, {"trigger": "raids", "type": "Attack", "arguments": [{"name": "army", "role": "Attacker"}, {"name": "Gaza Strip", "role": "Place"}]}]}
+{"id": "dev-442", "event": [{"trigger": "attack", "type": "Attack", "arguments": []}, {"trigger": "it", "type": "Attack", "arguments": []}, {"trigger": "death", "type": "Die", "arguments": [{"name": "civilian", "role": "Victim"}]}]}
+{"id": "dev-443", "event": [{"trigger": "attacks", "type": "Attack", "arguments": [{"name": "civilians", "role": "Target"}]}, {"trigger": "attack", "type": "Attack", "arguments": [{"name": "Haifa", "role": "Place"}]}]}
+{"id": "dev-444", "event": [{"trigger": "attack", "type": "Attack", "arguments": []}, {"trigger": "deaths", "type": "Die", "arguments": [{"name": "government", "role": "Agent"}, {"name": "army", "role": "Agent"}, {"name": "Palestinians", "role": "Victim"}]}]}
+{"id": "dev-445", "event": [{"trigger": "attack", "type": "Attack", "arguments": [{"name": "Israel", "role": "Place"}, {"name": "bomb", "role": "Instrument"}]}, {"trigger": "appointed", "type": "Start-Position", "arguments": [{"name": "Israel", "role": "Place"}]}]}
+{"id": "dev-446", "event": [{"trigger": "attack", "type": "Attack", "arguments": [{"name": "bombers", "role": "Attacker"}, {"name": "Tel Aviv", "role": "Place"}, {"name": "people", "role": "Target"}]}, {"trigger": "suicide", "type": "Die", "arguments": [{"name": "themselves", "role": "Victim"}, {"name": "bombers", "role": "Agent"}, {"name": "Tel Aviv", "role": "Place"}]}, {"trigger": "blew", "type": "Die", "arguments": [{"name": "themselves", "role": "Victim"}, {"name": "bombers", "role": "Agent"}, {"name": "Tel Aviv", "role": "Place"}]}, {"trigger": "killing", "type": "Die", "arguments": [{"name": "people", "role": "Victim"}, {"name": "bombers", "role": "Agent"}, {"name": "Tel Aviv", "role": "Place"}]}]}
+{"id": "dev-447", "event": [{"trigger": "blast", "type": "Attack", "arguments": []}, {"trigger": "attack", "type": "Attack", "arguments": []}]}
+{"id": "dev-448", "event": [{"trigger": "attacks", "type": "Attack", "arguments": []}, {"trigger": "blown", "type": "Attack", "arguments": [{"name": "Haifa", "role": "Place"}, {"name": "bus", "role": "Target"}]}]}
+{"id": "dev-449", "event": [{"trigger": "attack", "type": "Attack", "arguments": [{"name": "terrorists", "role": "Attacker"}, {"name": "Israel", "role": "Place"}, {"name": "innocents", "role": "Target"}]}]}
+{"id": "dev-450", "event": []}
+{"id": "dev-451", "event": [{"trigger": "attack", "type": "Attack", "arguments": []}, {"trigger": "killed", "type": "Die", "arguments": [{"name": "civilians", "role": "Victim"}]}]}
+{"id": "dev-452", "event": []}
+{"id": "dev-453", "event": [{"trigger": "violence", "type": "Attack", "arguments": [{"name": "sides", "role": "Attacker"}]}]}
+{"id": "dev-454", "event": []}
+{"id": "dev-455", "event": [{"trigger": "attack", "type": "Attack", "arguments": [{"name": "bus", "role": "Target"}]}, {"trigger": "raid", "type": "Attack", "arguments": [{"name": "forces", "role": "Attacker"}, {"name": "camp", "role": "Place"}, {"name": "Gaza", "role": "Place"}, {"name": "member", "role": "Target"}]}, {"trigger": "suicide", "type": "Die", "arguments": [{"name": "state", "role": "Place"}]}, {"trigger": "bombings", "type": "Attack", "arguments": [{"name": "state", "role": "Place"}]}]}
+{"id": "dev-456", "event": [{"trigger": "attacks", "type": "Attack", "arguments": [{"name": "its", "role": "Attacker"}]}, {"trigger": "meetings", "type": "Meet", "arguments": [{"name": "Palestinian", "role": "Entity"}]}]}
+{"id": "dev-457", "event": [{"trigger": "violence", "type": "Attack", "arguments": []}]}
+{"id": "dev-458", "event": [{"trigger": "killed", "type": "Die", "arguments": [{"name": "people", "role": "Victim"}, {"name": "woman", "role": "Victim"}, {"name": "child", "role": "Victim"}, {"name": "Gaza", "role": "Place"}]}, {"trigger": "raid", "type": "Attack", "arguments": [{"name": "Gaza", "role": "Place"}, {"name": "people", "role": "Target"}, {"name": "woman", "role": "Target"}, {"name": "child", "role": "Target"}]}]}
+{"id": "dev-459", "event": [{"trigger": "shot", "type": "Attack", "arguments": [{"name": "troops", "role": "Attacker"}, {"name": "settlement", "role": "Place"}, {"name": "shepherd", "role": "Target"}]}, {"trigger": "dead", "type": "Die", "arguments": [{"name": "troops", "role": "Agent"}, {"name": "shepherd", "role": "Victim"}, {"name": "settlement", "role": "Place"}]}]}
+{"id": "dev-460", "event": [{"trigger": "wounded", "type": "Injure", "arguments": [{"name": "boy", "role": "Victim"}, {"name": "brother", "role": "Victim"}, {"name": "sister", "role": "Victim"}, {"name": "Israeli", "role": "Agent"}, {"name": "village", "role": "Place"}]}, {"trigger": "gunfire", "type": "Attack", "arguments": [{"name": "Israeli", "role": "Attacker"}, {"name": "village", "role": "Place"}, {"name": "boy", "role": "Target"}, {"name": "brother", "role": "Target"}, {"name": "sister", "role": "Target"}]}]}
+{"id": "dev-461", "event": []}
+{"id": "dev-462", "event": [{"trigger": "pay", "type": "Transfer-Money", "arguments": [{"name": "houses", "role": "Giver"}, {"name": "Sotheby ' s", "role": "Giver"}, {"name": "Christie ' s", "role": "Giver"}]}]}
+{"id": "dev-463", "event": [{"trigger": "payment", "type": "Transfer-Money", "arguments": []}, {"trigger": "suits", "type": "Sue", "arguments": [{"name": "it", "role": "Defendant"}, {"name": "clients", "role": "Plaintiff"}]}]}
+{"id": "dev-464", "event": [{"trigger": "pay", "type": "Transfer-Money", "arguments": [{"name": "Sotheby ' s", "role": "Giver"}, {"name": "Christie ' s", "role": "Giver"}, {"name": "each", "role": "Giver"}]}]}
+{"id": "dev-465", "event": []}
+{"id": "dev-466", "event": [{"trigger": "pursue", "type": "Sue", "arguments": [{"name": "courts", "role": "Adjudicator"}, {"name": "Buyers", "role": "Plaintiff"}, {"name": "sellers", "role": "Plaintiff"}]}]}
+{"id": "dev-467", "event": [{"trigger": "litigation", "type": "Sue", "arguments": [{"name": "buyers", "role": "Plaintiff"}, {"name": "sellers", "role": "Plaintiff"}]}]}
+{"id": "dev-468", "event": [{"trigger": "settled", "type": "Transfer-Money", "arguments": []}]}
+{"id": "dev-469", "event": [{"trigger": "convicted", "type": "Convict", "arguments": [{"name": "Alfred Taubman", "role": "Defendant"}, {"name": "Manhattan", "role": "Place"}, {"name": "jury", "role": "Adjudicator"}]}]}
+{"id": "dev-470", "event": [{"trigger": "sentenced", "type": "Sentence", "arguments": [{"name": "billionaire", "role": "Defendant"}]}, {"trigger": "cost", "type": "Transfer-Money", "arguments": [{"name": "clients", "role": "Giver"}, {"name": "firms", "role": "Recipient"}]}]}
+{"id": "dev-471", "event": [{"trigger": "prosecuted", "type": "Charge-Indict", "arguments": [{"name": "Christie ' s", "role": "Defendant"}, {"name": "United States", "role": "Place"}]}]}
+{"id": "dev-472", "event": []}
+{"id": "dev-473", "event": [{"trigger": "settlement", "type": "Transfer-Money", "arguments": [{"name": "Sotheby ' s", "role": "Giver"}]}]}
+{"id": "dev-474", "event": [{"trigger": "payments", "type": "Transfer-Money", "arguments": []}]}
+{"id": "dev-475", "event": []}
+{"id": "dev-476", "event": [{"trigger": "war", "type": "Attack", "arguments": [{"name": "it", "role": "Attacker"}]}]}
+{"id": "dev-477", "event": [{"trigger": "talks", "type": "Meet", "arguments": [{"name": "body", "role": "Place"}, {"name": "French", "role": "Entity"}, {"name": "Russian", "role": "Entity"}, {"name": "US", "role": "Entity"}, {"name": "British", "role": "Entity"}]}, {"trigger": "deploying", "type": "Transport", "arguments": [{"name": "warships", "role": "Artifact"}, {"name": "United States", "role": "Agent"}, {"name": "Red Sea", "role": "Destination"}]}]}
+{"id": "dev-478", "event": []}
+{"id": "dev-479", "event": [{"trigger": "consultation", "type": "Meet", "arguments": [{"name": "six", "role": "Entity"}]}]}
+{"id": "dev-480", "event": []}
+{"id": "dev-481", "event": [{"trigger": "war", "type": "Meet", "arguments": []}]}
+{"id": "dev-482", "event": [{"trigger": "talks", "type": "Meet", "arguments": []}]}
+{"id": "dev-483", "event": [{"trigger": "talks", "type": "Meet", "arguments": [{"name": "we", "role": "Entity"}]}]}
+{"id": "dev-484", "event": []}
+{"id": "dev-485", "event": []}
+{"id": "dev-486", "event": [{"trigger": "talking", "type": "Meet", "arguments": [{"name": "We", "role": "Entity"}, {"name": "members", "role": "Entity"}]}]}
+{"id": "dev-487", "event": []}
+{"id": "dev-488", "event": [{"trigger": "unleash", "type": "Attack", "arguments": [{"name": "United States", "role": "Attacker"}, {"name": "Iraq", "role": "Place"}]}]}
+{"id": "dev-489", "event": []}
+{"id": "dev-490", "event": []}
+{"id": "dev-491", "event": []}
+{"id": "dev-492", "event": []}
+{"id": "dev-493", "event": []}
+{"id": "dev-494", "event": []}
+{"id": "dev-495", "event": [{"trigger": "attack", "type": "Attack", "arguments": [{"name": "Iraq", "role": "Place"}]}, {"trigger": "war", "type": "Attack", "arguments": [{"name": "Iraq", "role": "Place"}]}]}
+{"id": "dev-496", "event": []}
+{"id": "dev-497", "event": []}
+{"id": "dev-498", "event": []}
+{"id": "dev-499", "event": []}
+{"id": "dev-500", "event": [{"trigger": "deployed", "type": "Transport", "arguments": [{"name": "bombers", "role": "Artifact"}, {"name": "United States", "role": "Agent"}]}, {"trigger": "ordered", "type": "Transport", "arguments": [{"name": "Mediterranean", "role": "Origin"}, {"name": "Red Sea", "role": "Destination"}, {"name": "United States", "role": "Agent"}]}, {"trigger": "firing", "type": "Attack", "arguments": [{"name": "United States", "role": "Attacker"}, {"name": "Red Sea", "role": "Target"}, {"name": "Mediterranean", "role": "Target"}, {"name": "bombers", "role": "Instrument"}, {"name": "warships", "role": "Instrument"}]}]}
+{"id": "dev-501", "event": []}
+{"id": "dev-502", "event": [{"trigger": "quit", "type": "End-Position", "arguments": [{"name": "Barry Diller", "role": "Person"}, {"name": "Vivendi Universal Entertainment", "role": "Entity"}]}]}
+{"id": "dev-503", "event": [{"trigger": "took on", "type": "Start-Position", "arguments": [{"name": "Diller", "role": "Person"}, {"name": "operations", "role": "Entity"}]}]}
+{"id": "dev-504", "event": []}
+{"id": "dev-505", "event": []}
+{"id": "dev-506", "event": [{"trigger": "sale", "type": "Transfer-Ownership", "arguments": [{"name": "operations", "role": "Artifact"}, {"name": "USA Interactive", "role": "Seller"}, {"name": "company", "role": "Buyer"}]}]}
+{"id": "dev-507", "event": []}
+{"id": "dev-508", "event": [{"trigger": "replace", "type": "Start-Position", "arguments": [{"name": "Jean - Rene Fourtou", "role": "Person"}, {"name": "Paris", "role": "Place"}, {"name": "unit", "role": "Entity"}]}]}
+{"id": "dev-509", "event": [{"trigger": "ending", "type": "End-Position", "arguments": [{"name": "his", "role": "Person"}, {"name": "Vivendi Universal Entertainment", "role": "Entity"}]}]}
+{"id": "dev-510", "event": [{"trigger": "removal", "type": "End-Position", "arguments": [{"name": "Jean - Marie Messier", "role": "Person"}, {"name": "Vivendi Universal", "role": "Entity"}]}]}
+{"id": "dev-511", "event": []}
+{"id": "dev-512", "event": []}
+{"id": "dev-513", "event": [{"trigger": "sale", "type": "Transfer-Ownership", "arguments": [{"name": "operations", "role": "Artifact"}, {"name": "Vivendi", "role": "Seller"}]}]}
+{"id": "dev-514", "event": []}
+{"id": "dev-515", "event": []}
+{"id": "dev-516", "event": []}
+{"id": "dev-517", "event": []}
+{"id": "dev-518", "event": [{"trigger": "demonstrating", "type": "Demonstrate", "arguments": [{"name": "streets", "role": "Place"}, {"name": "people", "role": "Entity"}]}, {"trigger": "strikes", "type": "Attack", "arguments": [{"name": "Iraq", "role": "Place"}]}, {"trigger": "jihad", "type": "Attack", "arguments": [{"name": "Muslims", "role": "Attacker"}]}]}
+{"id": "dev-519", "event": [{"trigger": "attacks", "type": "Attack", "arguments": [{"name": "US", "role": "Attacker"}]}, {"trigger": "it", "type": "Attack", "arguments": [{"name": "US", "role": "Attacker"}]}]}
+{"id": "dev-520", "event": [{"trigger": "Protests", "type": "Demonstrate", "arguments": [{"name": "cities", "role": "Place"}, {"name": "Amman", "role": "Place"}, {"name": "Damascus", "role": "Place"}, {"name": "Gaza Strip", "role": "Place"}]}, {"trigger": "action", "type": "Attack", "arguments": [{"name": "Saddam Hussein", "role": "Target"}]}]}
+{"id": "dev-521", "event": [{"trigger": "protests", "type": "Demonstrate", "arguments": [{"name": "states", "role": "Place"}]}, {"trigger": "war", "type": "Attack", "arguments": []}]}
+{"id": "dev-522", "event": []}
+{"id": "dev-523", "event": [{"trigger": "action", "type": "Attack", "arguments": []}]}
+{"id": "dev-524", "event": []}
+{"id": "dev-525", "event": [{"trigger": "aggression", "type": "Attack", "arguments": [{"name": "Washington", "role": "Attacker"}]}]}
+{"id": "dev-526", "event": [{"trigger": "aggression", "type": "Attack", "arguments": [{"name": "United Nations", "role": "Attacker"}]}]}
+{"id": "dev-527", "event": [{"trigger": "war", "type": "Attack", "arguments": []}, {"trigger": "losses", "type": "Die", "arguments": []}]}
+{"id": "dev-528", "event": [{"trigger": "strikes", "type": "Attack", "arguments": [{"name": "Iraq", "role": "Place"}, {"name": "missile", "role": "Instrument"}]}, {"trigger": "conflict", "type": "Attack", "arguments": []}]}
+{"id": "dev-529", "event": [{"trigger": "war", "type": "Attack", "arguments": [{"name": "Middle East", "role": "Place"}]}, {"trigger": "war", "type": "Attack", "arguments": [{"name": "Middle East", "role": "Place"}]}]}
+{"id": "dev-530", "event": []}
+{"id": "dev-531", "event": [{"trigger": "war", "type": "Attack", "arguments": []}, {"trigger": "attacks", "type": "Attack", "arguments": [{"name": "Israel", "role": "Attacker"}, {"name": "Gaza Strip", "role": "Place"}, {"name": "people", "role": "Target"}]}]}
+{"id": "dev-532", "event": [{"trigger": "war", "type": "Attack", "arguments": [{"name": "those", "role": "Attacker"}, {"name": "Iraq", "role": "Place"}]}, {"trigger": "war", "type": "Attack", "arguments": []}, {"trigger": "war", "type": "Attack", "arguments": [{"name": "those", "role": "Attacker"}]}]}
+{"id": "dev-533", "event": [{"trigger": "aggression", "type": "Attack", "arguments": [{"name": "Americans", "role": "Attacker"}, {"name": "Iraq", "role": "Place"}, {"name": "Arabs", "role": "Target"}, {"name": "Muslims", "role": "Target"}]}, {"trigger": "war", "type": "Attack", "arguments": []}, {"trigger": "war", "type": "Attack", "arguments": [{"name": "Americans", "role": "Attacker"}, {"name": "Iraq", "role": "Place"}, {"name": "Muslims", "role": "Target"}, {"name": "Arabs", "role": "Target"}]}]}
+{"id": "dev-534", "event": [{"trigger": "war", "type": "Attack", "arguments": []}]}
+{"id": "dev-535", "event": [{"trigger": "war", "type": "Attack", "arguments": [{"name": "US", "role": "Attacker"}]}]}
+{"id": "dev-536", "event": [{"trigger": "war", "type": "Attack", "arguments": [{"name": "America", "role": "Attacker"}]}, {"trigger": "jihad", "type": "Attack", "arguments": [{"name": "our", "role": "Attacker"}]}, {"trigger": "war", "type": "Attack", "arguments": [{"name": "our", "role": "Attacker"}]}]}
+{"id": "dev-537", "event": []}
+{"id": "dev-538", "event": [{"trigger": "injured", "type": "Injure", "arguments": [{"name": "demonstrators", "role": "Victim"}, {"name": "policeman", "role": "Victim"}, {"name": "capital", "role": "Place"}]}, {"trigger": "clashes", "type": "Attack", "arguments": [{"name": "demonstrators", "role": "Attacker"}, {"name": "policeman", "role": "Attacker"}, {"name": "streets", "role": "Place"}]}, {"trigger": "took", "type": "Demonstrate", "arguments": [{"name": "streets", "role": "Place"}, {"name": "demonstrators", "role": "Entity"}]}]}
+{"id": "dev-539", "event": [{"trigger": "rallied", "type": "Demonstrate", "arguments": [{"name": "Tahrir Square", "role": "Place"}, {"name": "protestors", "role": "Entity"}]}]}
+{"id": "dev-540", "event": [{"trigger": "gathered", "type": "Demonstrate", "arguments": [{"name": "Al - Azhar Islamic University", "role": "Place"}, {"name": "people", "role": "Entity"}]}]}
+{"id": "dev-541", "event": [{"trigger": "Demonstrations", "type": "Demonstrate", "arguments": []}]}
+{"id": "dev-542", "event": [{"trigger": "hospitalised", "type": "Injure", "arguments": [{"name": "protestors", "role": "Victim"}, {"name": "Amman", "role": "Place"}]}, {"trigger": "sit - in", "type": "Demonstrate", "arguments": [{"name": "lawyers", "role": "Entity"}]}]}
+{"id": "dev-543", "event": [{"trigger": "gathered", "type": "Demonstrate", "arguments": [{"name": "Lebanon", "role": "Place"}, {"name": "campuses", "role": "Place"}, {"name": "students", "role": "Entity"}]}]}
+{"id": "dev-544", "event": []}
+{"id": "dev-545", "event": []}
+{"id": "dev-546", "event": [{"trigger": "execution", "type": "Execute", "arguments": [{"name": "Indonesia", "role": "Agent"}, {"name": "convicts", "role": "Person"}]}, {"trigger": "death", "type": "Die", "arguments": [{"name": "Indonesia", "role": "Place"}]}, {"trigger": "appealed", "type": "Appeal", "arguments": [{"name": "Indonesia", "role": "Place"}, {"name": "Supreme Court", "role": "Adjudicator"}, {"name": "five", "role": "Plaintiff"}]}]}
+{"id": "dev-547", "event": [{"trigger": "execute", "type": "Execute", "arguments": [{"name": "we", "role": "Agent"}, {"name": "them", "role": "Person"}]}, {"trigger": "appeals", "type": "Appeal", "arguments": [{"name": "their", "role": "Plaintiff"}]}]}
+{"id": "dev-548", "event": [{"trigger": "appeals", "type": "Appeal", "arguments": [{"name": "Supreme Court", "role": "Adjudicator"}, {"name": "five", "role": "Plaintiff"}]}]}
+{"id": "dev-549", "event": [{"trigger": "appeal", "type": "Appeal", "arguments": [{"name": "offender", "role": "Plaintiff"}]}]}
+{"id": "dev-550", "event": [{"trigger": "execution", "type": "Execute", "arguments": [{"name": "six", "role": "Person"}]}]}
+{"id": "dev-551", "event": [{"trigger": "convicted", "type": "Convict", "arguments": [{"name": "Five", "role": "Defendant"}]}]}
+{"id": "dev-552", "event": [{"trigger": "death", "type": "Die", "arguments": [{"name": "someone", "role": "Victim"}]}]}
+{"id": "dev-553", "event": [{"trigger": "appeal", "type": "Appeal", "arguments": [{"name": "convict", "role": "Plaintiff"}]}, {"trigger": "sentence", "type": "Sentence", "arguments": [{"name": "court", "role": "Adjudicator"}, {"name": "convict", "role": "Defendant"}]}]}
+{"id": "dev-554", "event": [{"trigger": "convicted", "type": "Convict", "arguments": [{"name": "those", "role": "Defendant"}]}, {"trigger": "death", "type": "Die", "arguments": []}]}
+{"id": "dev-555", "event": [{"trigger": "sentences", "type": "Sentence", "arguments": [{"name": "courts", "role": "Adjudicator"}, {"name": "smugglers", "role": "Defendant"}, {"name": "Indonesian", "role": "Place"}]}, {"trigger": "death", "type": "Die", "arguments": [{"name": "smugglers", "role": "Victim"}, {"name": "Indonesian", "role": "Place"}]}]}
+{"id": "dev-556", "event": []}
+{"id": "dev-557", "event": [{"trigger": "convicted", "type": "Convict", "arguments": [{"name": "offenders", "role": "Defendant"}, {"name": "Indonesia", "role": "Place"}]}, {"trigger": "death", "type": "Die", "arguments": []}]}
+{"id": "dev-558", "event": [{"trigger": "death", "type": "Die", "arguments": []}]}
+{"id": "dev-559", "event": [{"trigger": "death", "type": "Die", "arguments": []}, {"trigger": "execution", "type": "Execute", "arguments": [{"name": "men", "role": "Person"}, {"name": "Indonesia", "role": "Place"}]}, {"trigger": "convicted", "type": "Convict", "arguments": [{"name": "men", "role": "Defendant"}, {"name": "Indonesia", "role": "Place"}]}, {"trigger": "murder", "type": "Die", "arguments": [{"name": "men", "role": "Agent"}]}]}
+{"id": "dev-560", "event": []}
+{"id": "dev-561", "event": [{"trigger": "firing", "type": "Attack", "arguments": [{"name": "squad", "role": "Attacker"}]}]}
+{"id": "dev-562", "event": []}
+{"id": "dev-563", "event": [{"trigger": "headed", "type": "Transport", "arguments": [{"name": "troops", "role": "Artifact"}, {"name": "Iraq", "role": "Origin"}]}]}
+{"id": "dev-564", "event": [{"trigger": "parachuted", "type": "Transport", "arguments": [{"name": "soldiers", "role": "Artifact"}, {"name": "airfield", "role": "Destination"}]}, {"trigger": "bring in", "type": "Transport", "arguments": [{"name": "troops", "role": "Artifact"}, {"name": "tanks", "role": "Artifact"}, {"name": "which", "role": "Destination"}]}]}
+{"id": "dev-565", "event": [{"trigger": "flying", "type": "Transport", "arguments": [{"name": "soldiers", "role": "Artifact"}, {"name": "region", "role": "Destination"}, {"name": "Fort Hood", "role": "Origin"}]}]}
+{"id": "dev-566", "event": []}
+{"id": "dev-567", "event": [{"trigger": "war", "type": "Attack", "arguments": [{"name": "US", "role": "Attacker"}, {"name": "Iraq", "role": "Place"}]}]}
+{"id": "dev-568", "event": []}
+{"id": "dev-569", "event": []}
+{"id": "dev-570", "event": [{"trigger": "advance", "type": "Transport", "arguments": [{"name": "weapons", "role": "Artifact"}, {"name": "troops", "role": "Artifact"}, {"name": "US army", "role": "Agent"}, {"name": "Baghdad", "role": "Destination"}]}, {"trigger": "attacks", "type": "Attack", "arguments": [{"name": "Iraqi", "role": "Attacker"}, {"name": "US army", "role": "Target"}]}]}
+{"id": "dev-571", "event": [{"trigger": "resistance", "type": "Attack", "arguments": [{"name": "forces", "role": "Attacker"}]}]}
+{"id": "dev-572", "event": [{"trigger": "war", "type": "Attack", "arguments": [{"name": "US", "role": "Attacker"}]}]}
+{"id": "dev-573", "event": [{"trigger": "battle", "type": "Attack", "arguments": [{"name": "US", "role": "Attacker"}, {"name": "Baghdad", "role": "Place"}]}]}
+{"id": "dev-574", "event": [{"trigger": "war", "type": "Attack", "arguments": [{"name": "US", "role": "Attacker"}]}]}
+{"id": "dev-575", "event": [{"trigger": "arrived", "type": "Transport", "arguments": [{"name": "Blair", "role": "Artifact"}, {"name": "Washington", "role": "Destination"}]}, {"trigger": "talks", "type": "Meet", "arguments": [{"name": "retreat", "role": "Place"}, {"name": "Blair", "role": "Entity"}, {"name": "Bush", "role": "Entity"}]}]}
+{"id": "dev-576", "event": []}
+{"id": "dev-577", "event": [{"trigger": "action", "type": "Attack", "arguments": [{"name": "Washington", "role": "Attacker"}]}]}
+{"id": "dev-578", "event": [{"trigger": "conference", "type": "Meet", "arguments": [{"name": "Blair", "role": "Entity"}, {"name": "Bush", "role": "Entity"}]}]}
+{"id": "dev-579", "event": [{"trigger": "fight", "type": "Attack", "arguments": [{"name": "troops", "role": "Attacker"}, {"name": "soldiers", "role": "Attacker"}, {"name": "troops", "role": "Attacker"}]}]}
+{"id": "dev-580", "event": [{"trigger": "war", "type": "Attack", "arguments": []}]}
+{"id": "dev-581", "event": []}
+{"id": "dev-582", "event": []}
+{"id": "dev-583", "event": []}
+{"id": "dev-584", "event": []}
+{"id": "dev-585", "event": []}
+{"id": "dev-586", "event": []}
+{"id": "dev-587", "event": [{"trigger": "conflict", "type": "Attack", "arguments": [{"name": "We", "role": "Attacker"}, {"name": "Iraq", "role": "Place"}]}]}
+{"id": "dev-588", "event": [{"trigger": "leave", "type": "End-Position", "arguments": [{"name": "he", "role": "Person"}]}]}
+{"id": "dev-589", "event": []}
+{"id": "dev-590", "event": []}
+{"id": "dev-591", "event": []}
+{"id": "dev-592", "event": []}
+{"id": "dev-593", "event": []}
+{"id": "dev-594", "event": []}
+{"id": "dev-595", "event": []}
+{"id": "dev-596", "event": []}
+{"id": "dev-597", "event": []}
+{"id": "dev-598", "event": [{"trigger": "meeting", "type": "Meet", "arguments": [{"name": "St . Mary", "role": "Place"}, {"name": "We", "role": "Entity"}]}]}
+{"id": "dev-599", "event": []}
+{"id": "dev-600", "event": []}
+{"id": "dev-601", "event": []}
+{"id": "dev-602", "event": []}
+{"id": "dev-603", "event": []}
+{"id": "dev-604", "event": []}
+{"id": "dev-605", "event": []}
+{"id": "dev-606", "event": [{"trigger": "head", "type": "Transport", "arguments": [{"name": "Texas Ave", "role": "Origin"}]}, {"trigger": "come", "type": "Transport", "arguments": [{"name": "you", "role": "Artifact"}, {"name": "South West Parkway", "role": "Destination"}, {"name": "Texas Ave", "role": "Origin"}]}, {"trigger": "come", "type": "Transport", "arguments": [{"name": "you", "role": "Artifact"}, {"name": "Welsh", "role": "Destination"}, {"name": "SW Parkway", "role": "Origin"}]}, {"trigger": "Go", "type": "Transport", "arguments": [{"name": "complex", "role": "Destination"}]}]}
+{"id": "dev-607", "event": []}
+{"id": "dev-608", "event": []}
+{"id": "dev-609", "event": [{"trigger": "hiring", "type": "Start-Position", "arguments": [{"name": "Marinello", "role": "Person"}]}]}
+{"id": "dev-610", "event": [{"trigger": "leave", "type": "End-Position", "arguments": [{"name": "someone", "role": "Person"}]}, {"trigger": "hired", "type": "Start-Position", "arguments": [{"name": "someone", "role": "Person"}, {"name": "USCF", "role": "Entity"}]}]}
+{"id": "dev-611", "event": []}
+{"id": "dev-612", "event": [{"trigger": "given", "type": "Transfer-Money", "arguments": [{"name": "USCF", "role": "Giver"}, {"name": "member", "role": "Recipient"}]}]}
+{"id": "dev-613", "event": [{"trigger": "given", "type": "Transfer-Money", "arguments": [{"name": "USCF", "role": "Giver"}, {"name": "member", "role": "Recipient"}]}]}
+{"id": "dev-614", "event": [{"trigger": "be", "type": "Transfer-Money", "arguments": [{"name": "member", "role": "Recipient"}]}, {"trigger": "leaving", "type": "End-Position", "arguments": [{"name": "member", "role": "Person"}]}]}
+{"id": "dev-615", "event": [{"trigger": "given", "type": "Transfer-Money", "arguments": [{"name": "member", "role": "Beneficiary"}]}, {"trigger": "expiration", "type": "End-Position", "arguments": [{"name": "his", "role": "Person"}, {"name": "her", "role": "Person"}]}]}
+{"id": "dev-616", "event": []}
+{"id": "dev-617", "event": [{"trigger": "give", "type": "Transfer-Money", "arguments": [{"name": "board", "role": "Giver"}, {"name": "themselves", "role": "Recipient"}]}, {"trigger": "give", "type": "Transfer-Money", "arguments": [{"name": "they", "role": "Giver"}, {"name": "themselves", "role": "Recipient"}]}]}
+{"id": "dev-618", "event": [{"trigger": "meeting", "type": "Meet", "arguments": [{"name": "EB", "role": "Entity"}]}]}
+{"id": "dev-619", "event": [{"trigger": "feathering", "type": "Transfer-Money", "arguments": [{"name": "his", "role": "Recipient"}, {"name": "member", "role": "Giver"}, {"name": "her", "role": "Recipient"}]}]}
+{"id": "dev-620", "event": [{"trigger": "arrangements", "type": "Transfer-Money", "arguments": [{"name": "member", "role": "Recipient"}]}]}
+{"id": "dev-621", "event": [{"trigger": "elect", "type": "Elect", "arguments": [{"name": "EB", "role": "Person"}, {"name": "voters", "role": "Entity"}]}]}
+{"id": "dev-622", "event": [{"trigger": "leave", "type": "End-Position", "arguments": [{"name": "someone", "role": "Person"}]}, {"trigger": "compensated", "type": "Transfer-Money", "arguments": [{"name": "board", "role": "Giver"}, {"name": "someone", "role": "Recipient"}]}, {"trigger": "hire", "type": "Start-Position", "arguments": [{"name": "person", "role": "Person"}]}]}
+{"id": "dev-623", "event": []}
+{"id": "dev-624", "event": [{"trigger": "new", "type": "Start-Position", "arguments": [{"name": "Beatriz Marinello", "role": "Person"}, {"name": "USCF", "role": "Entity"}]}]}
+{"id": "dev-625", "event": [{"trigger": "drafted", "type": "Start-Position", "arguments": [{"name": "her", "role": "Person"}]}, {"trigger": "steps down", "type": "End-Position", "arguments": [{"name": "she", "role": "Person"}]}]}
+{"id": "dev-626", "event": []}
+{"id": "dev-627", "event": [{"trigger": "get", "type": "Transfer-Money", "arguments": [{"name": "USCF", "role": "Giver"}, {"name": "Marinello", "role": "Recipient"}]}]}
+{"id": "dev-628", "event": []}
+{"id": "dev-629", "event": []}
+{"id": "dev-630", "event": []}
+{"id": "dev-631", "event": []}
+{"id": "dev-632", "event": []}
+{"id": "dev-633", "event": []}
+{"id": "dev-634", "event": []}
+{"id": "dev-635", "event": [{"trigger": "designate", "type": "Start-Position", "arguments": [{"name": "someone", "role": "Person"}]}]}
+{"id": "dev-636", "event": [{"trigger": "hire", "type": "Start-Position", "arguments": [{"name": "consultant", "role": "Person"}]}]}
+{"id": "dev-637", "event": []}
+{"id": "dev-638", "event": []}
+{"id": "dev-639", "event": []}
+{"id": "dev-640", "event": []}
+{"id": "dev-641", "event": []}
+{"id": "dev-642", "event": [{"trigger": "elected", "type": "Elect", "arguments": [{"name": "board", "role": "Person"}]}]}
+{"id": "dev-643", "event": [{"trigger": "elected", "type": "Elect", "arguments": [{"name": "board", "role": "Person"}]}]}
+{"id": "dev-644", "event": []}
+{"id": "dev-645", "event": [{"trigger": "loan", "type": "Transfer-Money", "arguments": [{"name": "us", "role": "Recipient"}, {"name": "people", "role": "Giver"}]}]}
+{"id": "dev-646", "event": []}
+{"id": "dev-647", "event": []}
+{"id": "dev-648", "event": []}
+{"id": "dev-649", "event": [{"trigger": "meeting", "type": "Meet", "arguments": [{"name": "Florida", "role": "Place"}]}, {"trigger": "resigns", "type": "End-Position", "arguments": [{"name": "Marinello", "role": "Person"}, {"name": "Florida", "role": "Place"}]}, {"trigger": "hired", "type": "Start-Position", "arguments": [{"name": "Marinello", "role": "Person"}, {"name": "Florida", "role": "Place"}, {"name": "own", "role": "Entity"}]}, {"trigger": "lawsuit", "type": "Sue", "arguments": [{"name": "members", "role": "Defendant"}, {"name": "Sam Sloan", "role": "Plaintiff"}]}, {"trigger": "complaint", "type": "Sue", "arguments": [{"name": "his", "role": "Plaintiff"}]}, {"trigger": "charging", "type": "Charge-Indict", "arguments": [{"name": "members", "role": "Defendant"}, {"name": "Sam Sloan", "role": "Prosecutor"}]}, {"trigger": "paid", "type": "Transfer-Money", "arguments": [{"name": "USCF", "role": "Giver"}, {"name": "Marinello", "role": "Recipient"}]}]}
+{"id": "dev-650", "event": []}
+{"id": "dev-651", "event": []}
+{"id": "dev-652", "event": [{"trigger": "lawsuit", "type": "Sue", "arguments": [{"name": "USCF", "role": "Defendant"}, {"name": "New York", "role": "Place"}, {"name": "he", "role": "Plaintiff"}]}, {"trigger": "lawsuit", "type": "Sue", "arguments": [{"name": "USCF", "role": "Defendant"}, {"name": "he", "role": "Plaintiff"}]}]}
+{"id": "dev-653", "event": []}
+{"id": "dev-654", "event": [{"trigger": "sued", "type": "Sue", "arguments": [{"name": "Sam Sloan", "role": "Plaintiff"}]}, {"trigger": "sued", "type": "Sue", "arguments": [{"name": "court", "role": "Adjudicator"}, {"name": "Sam Sloan", "role": "Plaintiff"}]}]}
+{"id": "dev-655", "event": []}
+{"id": "dev-656", "event": []}
+{"id": "dev-657", "event": []}
+{"id": "dev-658", "event": [{"trigger": "Compensation", "type": "Transfer-Money", "arguments": [{"name": "Member", "role": "Recipient"}]}]}
+{"id": "dev-659", "event": []}
+{"id": "dev-660", "event": [{"trigger": "compensating", "type": "Transfer-Money", "arguments": [{"name": "members", "role": "Recipient"}]}, {"trigger": "meetings", "type": "Meet", "arguments": [{"name": "members", "role": "Entity"}]}, {"trigger": "meeting", "type": "Meet", "arguments": [{"name": "members", "role": "Entity"}, {"name": "board", "role": "Entity"}]}, {"trigger": "pay", "type": "Transfer-Money", "arguments": [{"name": "members", "role": "Recipient"}]}]}
+{"id": "dev-661", "event": []}
+{"id": "dev-662", "event": []}
+{"id": "dev-663", "event": []}
+{"id": "dev-664", "event": []}
+{"id": "dev-665", "event": [{"trigger": "Compensation", "type": "Transfer-Money", "arguments": [{"name": "Member", "role": "Recipient"}]}]}
+{"id": "dev-666", "event": []}
+{"id": "dev-667", "event": [{"trigger": "compensate", "type": "Transfer-Money", "arguments": [{"name": "charity", "role": "Giver"}, {"name": "members", "role": "Recipient"}]}]}
+{"id": "dev-668", "event": []}
+{"id": "dev-669", "event": [{"trigger": "reimburse", "type": "Transfer-Money", "arguments": [{"name": "members", "role": "Recipient"}]}]}
+{"id": "dev-670", "event": [{"trigger": "paying", "type": "Transfer-Money", "arguments": [{"name": "you", "role": "Giver"}, {"name": "someone", "role": "Recipient"}]}, {"trigger": "replace", "type": "End-Position", "arguments": [{"name": "member", "role": "Person"}]}, {"trigger": "meetings", "type": "Meet", "arguments": [{"name": "board", "role": "Entity"}]}]}
+{"id": "dev-671", "event": [{"trigger": "reimbursing", "type": "Transfer-Money", "arguments": [{"name": "member", "role": "Recipient"}]}]}
+{"id": "dev-672", "event": [{"trigger": "meeting", "type": "Meet", "arguments": []}]}
+{"id": "dev-673", "event": []}
+{"id": "dev-674", "event": []}
+{"id": "dev-675", "event": []}
+{"id": "dev-676", "event": [{"trigger": "Compensation", "type": "Transfer-Money", "arguments": [{"name": "Member", "role": "Recipient"}]}]}
+{"id": "dev-677", "event": []}
+{"id": "dev-678", "event": []}
+{"id": "dev-679", "event": [{"trigger": "together", "type": "Meet", "arguments": [{"name": "us", "role": "Entity"}]}]}
+{"id": "dev-680", "event": []}
+{"id": "dev-681", "event": []}
+{"id": "dev-682", "event": []}
+{"id": "dev-683", "event": []}
+{"id": "dev-684", "event": [{"trigger": "Compensation", "type": "Transfer-Money", "arguments": [{"name": "Member", "role": "Recipient"}]}]}
+{"id": "dev-685", "event": [{"trigger": "compensation", "type": "Transfer-Money", "arguments": [{"name": "directors", "role": "Recipient"}]}]}
+{"id": "dev-686", "event": [{"trigger": "meetings", "type": "Meet", "arguments": [{"name": "board", "role": "Entity"}]}]}
+{"id": "dev-687", "event": [{"trigger": "compensation", "type": "Transfer-Money", "arguments": [{"name": "directors", "role": "Recipient"}]}]}
+{"id": "dev-688", "event": []}
+{"id": "dev-689", "event": []}
+{"id": "dev-690", "event": []}
+{"id": "dev-691", "event": []}
+{"id": "dev-692", "event": []}
+{"id": "dev-693", "event": []}
+{"id": "dev-694", "event": []}
+{"id": "dev-695", "event": []}
+{"id": "dev-696", "event": []}
+{"id": "dev-697", "event": []}
+{"id": "dev-698", "event": [{"trigger": "Compensation", "type": "Transfer-Money", "arguments": [{"name": "Member", "role": "Recipient"}]}]}
+{"id": "dev-699", "event": [{"trigger": "pay", "type": "Transfer-Money", "arguments": [{"name": "Canada", "role": "Place"}, {"name": "people", "role": "Recipient"}]}]}
+{"id": "dev-700", "event": [{"trigger": "this", "type": "Transfer-Money", "arguments": [{"name": "Many", "role": "Giver"}]}]}
+{"id": "dev-701", "event": [{"trigger": "payment", "type": "Transfer-Money", "arguments": [{"name": "They", "role": "Giver"}, {"name": "recipients", "role": "Recipient"}]}]}
+{"id": "dev-702", "event": []}
+{"id": "dev-703", "event": []}
+{"id": "dev-704", "event": [{"trigger": "Compensation", "type": "Transfer-Money", "arguments": [{"name": "Member", "role": "Recipient"}]}]}
+{"id": "dev-705", "event": []}
+{"id": "dev-706", "event": []}
+{"id": "dev-707", "event": []}
+{"id": "dev-708", "event": []}
+{"id": "dev-709", "event": [{"trigger": "Compensation", "type": "Transfer-Money", "arguments": [{"name": "Member", "role": "Recipient"}]}]}
+{"id": "dev-710", "event": []}
+{"id": "dev-711", "event": []}
+{"id": "dev-712", "event": []}
+{"id": "dev-713", "event": []}
+{"id": "dev-714", "event": []}
+{"id": "dev-715", "event": [{"trigger": "Compensation", "type": "Transfer-Money", "arguments": [{"name": "Member", "role": "Recipient"}]}]}
+{"id": "dev-716", "event": []}
+{"id": "dev-717", "event": []}
+{"id": "dev-718", "event": []}
+{"id": "dev-719", "event": []}
+{"id": "dev-720", "event": [{"trigger": "Compensation", "type": "Transfer-Money", "arguments": [{"name": "Member", "role": "Recipient"}]}]}
+{"id": "dev-721", "event": []}
+{"id": "dev-722", "event": []}
+{"id": "dev-723", "event": []}
+{"id": "dev-724", "event": []}
+{"id": "dev-725", "event": []}
+{"id": "dev-726", "event": []}
+{"id": "dev-727", "event": []}
+{"id": "dev-728", "event": []}
+{"id": "dev-729", "event": []}
+{"id": "dev-730", "event": []}
+{"id": "dev-731", "event": []}
+{"id": "dev-732", "event": []}
+{"id": "dev-733", "event": [{"trigger": "Compensation", "type": "Transfer-Money", "arguments": [{"name": "Member", "role": "Recipient"}]}]}
+{"id": "dev-734", "event": [{"trigger": "it", "type": "Transfer-Money", "arguments": [{"name": "Canada", "role": "Place"}]}]}
+{"id": "dev-735", "event": [{"trigger": "pay", "type": "Transfer-Money", "arguments": [{"name": "members", "role": "Recipient"}]}, {"trigger": "elected", "type": "Elect", "arguments": [{"name": "members", "role": "Person"}, {"name": "their", "role": "Entity"}]}]}
+{"id": "dev-736", "event": [{"trigger": "it", "type": "Transfer-Money", "arguments": []}]}
+{"id": "dev-737", "event": []}
+{"id": "dev-738", "event": []}
+{"id": "dev-739", "event": [{"trigger": "killing", "type": "Die", "arguments": [{"name": "Iraqi", "role": "Victim"}, {"name": "comrade", "role": "Agent"}, {"name": "Falluja", "role": "Place"}]}, {"trigger": "offensive", "type": "Attack", "arguments": [{"name": "Marines", "role": "Attacker"}, {"name": "Falluja", "role": "Place"}]}]}
+{"id": "dev-740", "event": [{"trigger": "shooting", "type": "Attack", "arguments": [{"name": "comrade", "role": "Attacker"}, {"name": "city", "role": "Place"}]}]}
+{"id": "dev-741", "event": []}
+{"id": "dev-742", "event": [{"trigger": "shot", "type": "Attack", "arguments": [{"name": "Falluja", "role": "Place"}, {"name": "He", "role": "Target"}]}]}
+{"id": "dev-743", "event": []}
+{"id": "dev-744", "event": [{"trigger": "shot", "type": "Die", "arguments": [{"name": "insurgent", "role": "Victim"}]}]}
+{"id": "dev-745", "event": []}
+{"id": "dev-746", "event": []}
+{"id": "dev-747", "event": []}
+{"id": "dev-748", "event": []}
+{"id": "dev-749", "event": [{"trigger": "lost", "type": "Die", "arguments": [{"name": "explosives", "role": "Instrument"}, {"name": "soldier", "role": "Victim"}, {"name": "insurgent", "role": "Agent"}]}, {"trigger": "dead", "type": "Die", "arguments": [{"name": "insurgent", "role": "Victim"}]}]}
+{"id": "dev-750", "event": [{"trigger": "bombings", "type": "Attack", "arguments": []}]}
+{"id": "dev-751", "event": [{"trigger": "dead", "type": "Die", "arguments": [{"name": "insurgents", "role": "Victim"}]}, {"trigger": "wounded", "type": "Injure", "arguments": [{"name": "insurgents", "role": "Victim"}]}, {"trigger": "ambush", "type": "Attack", "arguments": [{"name": "Marines", "role": "Target"}, {"name": "their", "role": "Target"}]}]}
+{"id": "dev-752", "event": [{"trigger": "war", "type": "Attack", "arguments": []}, {"trigger": "war", "type": "Attack", "arguments": []}]}
+{"id": "dev-753", "event": [{"trigger": "war", "type": "Attack", "arguments": []}]}
+{"id": "dev-754", "event": []}
+{"id": "dev-755", "event": []}
+{"id": "dev-756", "event": []}
+{"id": "dev-757", "event": [{"trigger": "fought", "type": "Attack", "arguments": [{"name": "Fallujah", "role": "Place"}, {"name": "terrorists", "role": "Target"}, {"name": "we", "role": "Attacker"}]}]}
+{"id": "dev-758", "event": [{"trigger": "blowing up", "type": "Die", "arguments": [{"name": "terrorists", "role": "Victim"}, {"name": "families", "role": "Agent"}]}, {"trigger": "chopping off", "type": "Attack", "arguments": [{"name": "terrorists", "role": "Attacker"}, {"name": "families", "role": "Target"}]}]}
+{"id": "dev-759", "event": [{"trigger": "tortured", "type": "Attack", "arguments": [{"name": "Margaret Hassan", "role": "Attacker"}, {"name": "guys", "role": "Target"}]}, {"trigger": "slaughtered", "type": "Die", "arguments": [{"name": "Margaret Hassan", "role": "Victim"}, {"name": "guys", "role": "Agent"}]}]}
+{"id": "dev-760", "event": []}
+{"id": "dev-761", "event": [{"trigger": "shot", "type": "Attack", "arguments": [{"name": "militant", "role": "Attacker"}, {"name": "woman", "role": "Target"}]}]}
+{"id": "dev-762", "event": [{"trigger": "die", "type": "Die", "arguments": [{"name": "woman", "role": "Victim"}, {"name": "Iraq", "role": "Place"}]}]}
+{"id": "dev-763", "event": []}
+{"id": "dev-764", "event": [{"trigger": "mutilated", "type": "Die", "arguments": [{"name": "body", "role": "Victim"}]}, {"trigger": "assault", "type": "Attack", "arguments": [{"name": "U . S", "role": "Attacker"}]}]}
+{"id": "dev-765", "event": []}
+{"id": "dev-766", "event": []}
+{"id": "dev-767", "event": [{"trigger": "shot", "type": "Execute", "arguments": [{"name": "they", "role": "Person"}]}]}
+{"id": "dev-768", "event": [{"trigger": "Torturing", "type": "Injure", "arguments": [{"name": "women", "role": "Victim"}]}]}
+{"id": "dev-769", "event": []}
+{"id": "dev-770", "event": []}
+{"id": "dev-771", "event": []}
+{"id": "dev-772", "event": []}
+{"id": "dev-773", "event": []}
+{"id": "dev-774", "event": []}
+{"id": "dev-775", "event": []}
+{"id": "dev-776", "event": []}
+{"id": "dev-777", "event": [{"trigger": "killed", "type": "Die", "arguments": [{"name": "she", "role": "Victim"}, {"name": "men", "role": "Agent"}]}]}
+{"id": "dev-778", "event": [{"trigger": "die", "type": "Die", "arguments": [{"name": "they", "role": "Victim"}]}]}
+{"id": "dev-779", "event": []}
+{"id": "dev-780", "event": []}
+{"id": "dev-781", "event": []}
+{"id": "dev-782", "event": [{"trigger": "taking money", "type": "Transfer-Money", "arguments": [{"name": "reporter", "role": "Recipient"}]}]}
+{"id": "dev-783", "event": []}
+{"id": "dev-784", "event": []}
+{"id": "dev-785", "event": []}
+{"id": "dev-786", "event": [{"trigger": "payroll", "type": "Transfer-Money", "arguments": [{"name": "lobby", "role": "Giver"}, {"name": "reporter", "role": "Recipient"}]}]}
+{"id": "dev-787", "event": [{"trigger": "paid", "type": "Transfer-Money", "arguments": [{"name": "U . N", "role": "Giver"}, {"name": "Linda Fasulo", "role": "Beneficiary"}]}]}
+{"id": "dev-788", "event": [{"trigger": "paid", "type": "Transfer-Money", "arguments": [{"name": "lobby", "role": "Giver"}]}]}
+{"id": "dev-789", "event": [{"trigger": "support", "type": "Transfer-Money", "arguments": [{"name": "U . N . Foundation", "role": "Giver"}, {"name": "Better World Campaign", "role": "Giver"}, {"name": "reporter", "role": "Recipient"}]}]}
+{"id": "dev-790", "event": [{"trigger": "fund", "type": "Transfer-Money", "arguments": [{"name": "Rockefeller Brothers Fund", "role": "Giver"}, {"name": "She", "role": "Recipient"}]}]}
+{"id": "dev-791", "event": []}
+{"id": "dev-792", "event": []}
+{"id": "dev-793", "event": []}
+{"id": "dev-794", "event": []}
+{"id": "dev-795", "event": []}
+{"id": "dev-796", "event": []}
+{"id": "dev-797", "event": []}
+{"id": "dev-798", "event": []}
+{"id": "dev-799", "event": []}
+{"id": "dev-800", "event": [{"trigger": "money", "type": "Transfer-Money", "arguments": [{"name": "lobby", "role": "Giver"}, {"name": "reporter", "role": "Recipient"}]}]}
+{"id": "dev-801", "event": [{"trigger": "Dinner", "type": "Meet", "arguments": [{"name": "Tom Brokaw", "role": "Entity"}, {"name": "UNA - USA", "role": "Entity"}, {"name": "BCUN", "role": "Entity"}]}]}
+{"id": "dev-802", "event": []}
+{"id": "dev-803", "event": [{"trigger": "former", "type": "End-Position", "arguments": [{"name": "New York Times", "role": "Entity"}, {"name": "Barbara Crossette", "role": "Person"}]}, {"trigger": "genocide", "type": "Attack", "arguments": [{"name": "Rwanda", "role": "Place"}]}]}
+{"id": "dev-804", "event": [{"trigger": "sending", "type": "Transport", "arguments": [{"name": "troops", "role": "Artifact"}, {"name": "U . S", "role": "Agent"}, {"name": "Security Council", "role": "Agent"}]}]}
+{"id": "dev-805", "event": [{"trigger": "massacres", "type": "Attack", "arguments": [{"name": "Rwanda", "role": "Place"}]}]}
+{"id": "dev-806", "event": []}
+{"id": "dev-807", "event": []}
+{"id": "dev-808", "event": []}
+{"id": "dev-809", "event": [{"trigger": "genocide", "type": "Attack", "arguments": [{"name": "Rwanda", "role": "Place"}, {"name": "weapons", "role": "Instrument"}]}]}
+{"id": "dev-810", "event": [{"trigger": "fax", "type": "Phone-Write", "arguments": [{"name": "Romeo Dallaire", "role": "Entity"}, {"name": "office", "role": "Entity"}]}, {"trigger": "genocide", "type": "Attack", "arguments": [{"name": "Rwanda", "role": "Place"}]}]}
+{"id": "dev-811", "event": [{"trigger": "genocide", "type": "Attack", "arguments": [{"name": "stockpiles", "role": "Instrument"}]}]}
+{"id": "dev-812", "event": []}
+{"id": "dev-813", "event": []}
+{"id": "dev-814", "event": [{"trigger": "fax", "type": "Phone-Write", "arguments": [{"name": "He", "role": "Entity"}, {"name": "office", "role": "Entity"}]}]}
+{"id": "dev-815", "event": [{"trigger": "genocide", "type": "Attack", "arguments": [{"name": "government", "role": "Attacker"}]}]}
+{"id": "dev-816", "event": [{"trigger": "genocide", "type": "Attack", "arguments": []}]}
+{"id": "dev-817", "event": [{"trigger": "genocide", "type": "Attack", "arguments": [{"name": "government", "role": "Attacker"}]}]}
+{"id": "dev-818", "event": []}
+{"id": "dev-819", "event": []}
+{"id": "dev-820", "event": []}
+{"id": "dev-821", "event": []}
+{"id": "dev-822", "event": []}
+{"id": "dev-823", "event": []}
+{"id": "dev-824", "event": [{"trigger": "slaughter", "type": "Attack", "arguments": [{"name": "Rwanda", "role": "Place"}, {"name": "Tutsis", "role": "Target"}, {"name": "sympathizers", "role": "Target"}]}]}
+{"id": "dev-825", "event": [{"trigger": "killings", "type": "Attack", "arguments": [{"name": "its", "role": "Attacker"}]}]}
+{"id": "dev-826", "event": [{"trigger": "holocaust", "type": "Attack", "arguments": [{"name": "Rwandan", "role": "Place"}]}]}
+{"id": "dev-827", "event": []}
+{"id": "dev-828", "event": []}
+{"id": "dev-829", "event": []}
+{"id": "dev-830", "event": []}
+{"id": "dev-831", "event": []}
+{"id": "dev-832", "event": []}
+{"id": "dev-833", "event": []}
+{"id": "dev-834", "event": []}
+{"id": "dev-835", "event": []}
+{"id": "dev-836", "event": [{"trigger": "assassination", "type": "Die", "arguments": [{"name": "minister", "role": "Victim"}, {"name": "Beirut", "role": "Place"}]}, {"trigger": "former", "type": "End-Position", "arguments": [{"name": "minister", "role": "Person"}, {"name": "Lebanon", "role": "Entity"}]}]}
+{"id": "dev-837", "event": []}
+{"id": "dev-838", "event": [{"trigger": "raising money", "type": "Transfer-Money", "arguments": [{"name": "it", "role": "Beneficiary"}, {"name": "Europe", "role": "Place"}, {"name": "groups", "role": "Recipient"}]}]}
+{"id": "dev-839", "event": [{"trigger": "turbulence", "type": "Attack", "arguments": [{"name": "Lebanon", "role": "Place"}]}]}
+{"id": "dev-840", "event": [{"trigger": "talks", "type": "Meet", "arguments": []}, {"trigger": "attack", "type": "Attack", "arguments": [{"name": "groups", "role": "Attacker"}, {"name": "Middle East", "role": "Place"}, {"name": "Israelis", "role": "Target"}]}]}
+{"id": "dev-841", "event": []}
+{"id": "dev-842", "event": []}
+{"id": "dev-843", "event": []}
+{"id": "dev-844", "event": []}
+{"id": "dev-845", "event": []}
+{"id": "dev-846", "event": []}
+{"id": "dev-847", "event": [{"trigger": "meeting", "type": "Meet", "arguments": [{"name": "Brussels", "role": "Place"}, {"name": "Clearing House", "role": "Entity"}]}, {"trigger": "meets", "type": "Meet", "arguments": [{"name": "unit", "role": "Entity"}]}]}
+{"id": "dev-848", "event": []}
+{"id": "dev-849", "event": []}
+{"id": "dev-850", "event": []}
+{"id": "dev-851", "event": []}
+{"id": "dev-852", "event": []}
+{"id": "dev-853", "event": []}
+{"id": "dev-854", "event": []}
+{"id": "dev-855", "event": []}
+{"id": "dev-856", "event": [{"trigger": "attacks", "type": "Attack", "arguments": [{"name": "agent", "role": "Attacker"}, {"name": "Israel", "role": "Place"}]}]}
+{"id": "dev-857", "event": []}
+{"id": "dev-858", "event": []}
+{"id": "dev-859", "event": []}
+{"id": "dev-860", "event": []}
+{"id": "dev-861", "event": []}
+{"id": "dev-862", "event": []}
+{"id": "dev-863", "event": []}
+{"id": "dev-864", "event": []}
+{"id": "dev-865", "event": [{"trigger": "call", "type": "Phone-Write", "arguments": [{"name": "I", "role": "Entity"}, {"name": "wife", "role": "Entity"}]}]}
+{"id": "dev-866", "event": []}
+{"id": "dev-867", "event": [{"trigger": "started", "type": "Start-Position", "arguments": [{"name": "I", "role": "Person"}, {"name": "here", "role": "Entity"}]}]}
+{"id": "dev-868", "event": []}
+{"id": "dev-869", "event": [{"trigger": "died", "type": "Die", "arguments": [{"name": "grandmother", "role": "Victim"}]}]}
+{"id": "dev-870", "event": []}
+{"id": "dev-871", "event": []}
+{"id": "dev-872", "event": []}
+{"id": "dev-873", "event": []}
+{"id": "dev-874", "event": []}
+{"id": "dev-875", "event": []}
+{"id": "dev-876", "event": []}
+{"id": "dev-877", "event": []}
+{"id": "dev-878", "event": []}
+{"id": "dev-879", "event": []}
+{"id": "dev-880", "event": []}
+{"id": "dev-881", "event": []}
+{"id": "dev-882", "event": [{"trigger": "pay", "type": "Transfer-Ownership", "arguments": [{"name": "car", "role": "Artifact"}, {"name": "My", "role": "Buyer"}]}]}
+{"id": "dev-883", "event": []}
+{"id": "dev-884", "event": []}
+{"id": "dev-885", "event": []}
+{"id": "dev-886", "event": []}
+{"id": "dev-887", "event": []}
+{"id": "dev-888", "event": []}
+{"id": "dev-889", "event": []}
+{"id": "dev-890", "event": []}
+{"id": "dev-891", "event": []}
+{"id": "dev-892", "event": []}
+{"id": "dev-893", "event": []}
+{"id": "dev-894", "event": []}
+{"id": "dev-895", "event": []}
+{"id": "dev-896", "event": []}
+{"id": "dev-897", "event": []}
+{"id": "dev-898", "event": []}
+{"id": "dev-899", "event": []}
+{"id": "dev-900", "event": []}
