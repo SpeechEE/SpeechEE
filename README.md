@@ -2,8 +2,6 @@
 
 ## SpeechEE: A Novel Benchmark for Speech Event Extraction
 
-## ACMMM 2024 Paper
-
 
 ## Requirements
 
